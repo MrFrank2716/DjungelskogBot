@@ -1,4 +1,6 @@
 # **ShuffleBot**
+!(https://github-readme-stats.vercel.app/api?username=MrFrank2716)](https://github.com/MrFrank2716/github-readme-stats)
+
 A focused bot for playing music in voice channels on Discord.
 
 ![Spotify Player](https://raw.githubusercontent.com/jbelford/ShuffleBot/master/src/public/img/SpotifyPlayer.PNG)
