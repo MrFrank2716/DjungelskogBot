@@ -1,5 +1,5 @@
 # **ShuffleBot**
-[!](https://github-readme-stats.vercel.app/api?username=MrFrank2716)](https://github.com/MrFrank2716/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MrFrank2716)](https://github.com/MrFrank2716/github-readme-stats)
 
 A focused bot for playing music in voice channels on Discord.
 
